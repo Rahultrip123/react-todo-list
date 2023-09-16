@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rahultrip123/react-todo-list/static/css/main.073c9b0a.css",
-    "main.js": "/Rahultrip123/react-todo-list/static/js/main.7ad90974.js",
-    "index.html": "/Rahultrip123/react-todo-list/index.html",
-    "main.073c9b0a.css.map": "/Rahultrip123/react-todo-list/static/css/main.073c9b0a.css.map",
-    "main.7ad90974.js.map": "/Rahultrip123/react-todo-list/static/js/main.7ad90974.js.map"
+    "main.css": "/react-todo-list/static/css/main.073c9b0a.css",
+    "main.js": "/react-todo-list/static/js/main.ff88128f.js",
+    "index.html": "/react-todo-list/index.html",
+    "main.073c9b0a.css.map": "/react-todo-list/static/css/main.073c9b0a.css.map",
+    "main.ff88128f.js.map": "/react-todo-list/static/js/main.ff88128f.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7ad90974.js"
+    "static/js/main.ff88128f.js"
   ]
 }
