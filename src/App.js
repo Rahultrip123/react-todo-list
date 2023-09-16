@@ -9,7 +9,7 @@ function App() {
     <div className="container">
       <BrowserRouter basename="/react-todo-list">
         <Routes>
-          <Route exact path="/react-todo-list" element={<Create />}></Route>
+          <Route exact path="/" element={<Create />}></Route>
           <Route exact path="/read" element={<Read />}></Route>
           <Route exact path="/update" element={<Update />}></Route>
         </Routes>
